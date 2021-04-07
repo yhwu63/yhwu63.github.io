@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=7RJxmIoAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Ying-Hsin-Wu"
+  researchgate     : "https://www.researchgate.net/profile/Ying-Hsin-Wu"
   uri              :
   bitbucket        :
   codepen          :
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
