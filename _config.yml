@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ying-Hsin Wu | 吳映昕"
   avatar           : "profile.png"
-  bio              : "Program-specific Associate Professor, Disaster Prevention Research Institute, Kyoto University, Japan"
-  location         : "Kyoto, Japan"
-  employer         : 
+  bio              : "Program-specific Associate Professor, Disaster Prevention Research Institute"
+  location         : 
+  employer         : "Kyoto University, Japan"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=7RJxmIoAAAAJ"
   email            :
